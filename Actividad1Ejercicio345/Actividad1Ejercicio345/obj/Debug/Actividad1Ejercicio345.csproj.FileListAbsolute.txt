@@ -1,0 +1,9 @@
+c:\users\matías\documents\visual studio 2012\Projects\Actividad1Ejercicio345\Actividad1Ejercicio345\bin\Debug\Actividad1Ejercicio345.exe.config
+c:\users\matías\documents\visual studio 2012\Projects\Actividad1Ejercicio345\Actividad1Ejercicio345\bin\Debug\Actividad1Ejercicio345.exe
+c:\users\matías\documents\visual studio 2012\Projects\Actividad1Ejercicio345\Actividad1Ejercicio345\bin\Debug\Actividad1Ejercicio345.pdb
+c:\users\matías\documents\visual studio 2012\Projects\Actividad1Ejercicio345\Actividad1Ejercicio345\obj\Debug\Actividad1Ejercicio345.Properties.Resources.resources
+c:\users\matías\documents\visual studio 2012\Projects\Actividad1Ejercicio345\Actividad1Ejercicio345\obj\Debug\Actividad1Ejercicio345.csproj.GenerateResource.Cache
+c:\users\matías\documents\visual studio 2012\Projects\Actividad1Ejercicio345\Actividad1Ejercicio345\obj\Debug\Actividad1Ejercicio345.exe
+c:\users\matías\documents\visual studio 2012\Projects\Actividad1Ejercicio345\Actividad1Ejercicio345\obj\Debug\Actividad1Ejercicio345.pdb
+c:\users\matías\documents\visual studio 2012\Projects\Actividad1Ejercicio345\Actividad1Ejercicio345\obj\Debug\Actividad1Ejercicio345.Form1.resources
+c:\users\matías\documents\visual studio 2012\Projects\Actividad1Ejercicio345\Actividad1Ejercicio345\obj\Debug\Actividad1Ejercicio345.csprojResolveAssemblyReference.cache
