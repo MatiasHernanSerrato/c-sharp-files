@@ -13,7 +13,12 @@ namespace Actividad1Ejercicio345
     public partial class Form1 : Form
     {
         List<Persona> Persons = new List<Persona>();
-        
+        private void llenarDgv()
+        {
+            dgvPersonas.DataSource = null;
+            dgvPersonas.DataSource = Persons;
+
+        }
         
         public Form1()
         {
@@ -61,7 +66,10 @@ namespace Actividad1Ejercicio345
         {
             Persona human = new Persona(txtNombre.Text, Convert.ToInt32(txtEdad.Text));
             Persons.Add(human);
-            
+            llenarDgv();
+
         }
+
+        
     }
 }
