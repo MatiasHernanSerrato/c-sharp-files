@@ -11,27 +11,15 @@ namespace Actividad1Ejercicio345
         private string nombre;
         private int edad;
 
-        public string Nombre
-        {
-            get { return nombre; }
-            set { nombre = value; }
-        }
-        public int Edad
-        {
-            get { return edad; }
-            set { edad = value; }
-        }
+        public string Nombre { get; set; }
+        public int Edad { get; set; }
 
         public Persona(string name, int age)
         {
-            this.nombre = name;
-            this.edad = age;
+            this.Nombre = name;
+            this.Edad = age;
         }
 
-        public override string ToString()
-        {
-            return string.Format("{0}, {1}", nombre, edad);
-        }
 
     }
 }

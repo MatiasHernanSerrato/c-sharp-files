@@ -240,7 +240,7 @@
             this.gbList.Controls.Add(this.txtNombre);
             this.gbList.Location = new System.Drawing.Point(501, 64);
             this.gbList.Name = "gbList";
-            this.gbList.Size = new System.Drawing.Size(198, 121);
+            this.gbList.Size = new System.Drawing.Size(278, 121);
             this.gbList.TabIndex = 4;
             this.gbList.TabStop = false;
             this.gbList.Text = "Listas con clases";
@@ -292,14 +292,14 @@
             this.dgvPersonas.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
             this.dgvPersonas.Location = new System.Drawing.Point(501, 191);
             this.dgvPersonas.Name = "dgvPersonas";
-            this.dgvPersonas.Size = new System.Drawing.Size(198, 162);
+            this.dgvPersonas.Size = new System.Drawing.Size(278, 162);
             this.dgvPersonas.TabIndex = 5;
             // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(717, 377);
+            this.ClientSize = new System.Drawing.Size(804, 377);
             this.Controls.Add(this.dgvPersonas);
             this.Controls.Add(this.gbList);
             this.Controls.Add(this.gbEjercicio3WithClass);

@@ -7,12 +7,14 @@ c:\users\matías\documents\visual studio 2012\Projects\Actividad1Ejercicio345\Ac
 c:\users\matías\documents\visual studio 2012\Projects\Actividad1Ejercicio345\Actividad1Ejercicio345\obj\Debug\Actividad1Ejercicio345.pdb
 c:\users\matías\documents\visual studio 2012\Projects\Actividad1Ejercicio345\Actividad1Ejercicio345\obj\Debug\Actividad1Ejercicio345.Form1.resources
 c:\users\matías\documents\visual studio 2012\Projects\Actividad1Ejercicio345\Actividad1Ejercicio345\obj\Debug\Actividad1Ejercicio345.csprojResolveAssemblyReference.cache
-C:\Users\Nahuel\Documents\laNota\Actividad1Ejercicio345\Actividad1Ejercicio345\bin\Debug\Actividad1Ejercicio345.exe.config
-C:\Users\Nahuel\Documents\laNota\Actividad1Ejercicio345\Actividad1Ejercicio345\obj\Debug\Actividad1Ejercicio345.exe
-C:\Users\Nahuel\Documents\laNota\Actividad1Ejercicio345\Actividad1Ejercicio345\obj\Debug\Actividad1Ejercicio345.pdb
-C:\Users\Nahuel\Documents\laNota\Actividad1Ejercicio345\Actividad1Ejercicio345\bin\Debug\Actividad1Ejercicio345.exe
-C:\Users\Nahuel\Documents\laNota\Actividad1Ejercicio345\Actividad1Ejercicio345\bin\Debug\Actividad1Ejercicio345.pdb
-C:\Users\Nahuel\Documents\laNota\Actividad1Ejercicio345\Actividad1Ejercicio345\obj\Debug\Actividad1Ejercicio345.csprojResolveAssemblyReference.cache
-C:\Users\Nahuel\Documents\laNota\Actividad1Ejercicio345\Actividad1Ejercicio345\obj\Debug\Actividad1Ejercicio345.Form1.resources
-C:\Users\Nahuel\Documents\laNota\Actividad1Ejercicio345\Actividad1Ejercicio345\obj\Debug\Actividad1Ejercicio345.Properties.Resources.resources
-C:\Users\Nahuel\Documents\laNota\Actividad1Ejercicio345\Actividad1Ejercicio345\obj\Debug\Actividad1Ejercicio345.csproj.GenerateResource.Cache
+C:\Users\Matías\Documents\Visual Studio 2012\Projects\Actividad1Ejercicio345\Actividad1Ejercicio345\obj\Debug\Actividad1Ejercicio345.Contenedor.resources
+C:\Users\Matías\Documents\laNota\Actividad1Ejercicio345\Actividad1Ejercicio345\bin\Debug\Actividad1Ejercicio345.exe.config
+C:\Users\Matías\Documents\laNota\Actividad1Ejercicio345\Actividad1Ejercicio345\obj\Debug\Actividad1Ejercicio345.exe
+C:\Users\Matías\Documents\laNota\Actividad1Ejercicio345\Actividad1Ejercicio345\obj\Debug\Actividad1Ejercicio345.pdb
+C:\Users\Matías\Documents\laNota\Actividad1Ejercicio345\Actividad1Ejercicio345\bin\Debug\Actividad1Ejercicio345.exe
+C:\Users\Matías\Documents\laNota\Actividad1Ejercicio345\Actividad1Ejercicio345\bin\Debug\Actividad1Ejercicio345.pdb
+C:\Users\Matías\Documents\laNota\Actividad1Ejercicio345\Actividad1Ejercicio345\obj\Debug\Actividad1Ejercicio345.csprojResolveAssemblyReference.cache
+C:\Users\Matías\Documents\laNota\Actividad1Ejercicio345\Actividad1Ejercicio345\obj\Debug\Actividad1Ejercicio345.Contenedor.resources
+C:\Users\Matías\Documents\laNota\Actividad1Ejercicio345\Actividad1Ejercicio345\obj\Debug\Actividad1Ejercicio345.Form1.resources
+C:\Users\Matías\Documents\laNota\Actividad1Ejercicio345\Actividad1Ejercicio345\obj\Debug\Actividad1Ejercicio345.Properties.Resources.resources
+C:\Users\Matías\Documents\laNota\Actividad1Ejercicio345\Actividad1Ejercicio345\obj\Debug\Actividad1Ejercicio345.csproj.GenerateResource.Cache
